@@ -1,0 +1,13 @@
+D:\Projet c#\PokerBot\PokerBot\bin\Debug\netcoreapp3.1\PokerBot.exe
+D:\Projet c#\PokerBot\PokerBot\bin\Debug\netcoreapp3.1\PokerBot.deps.json
+D:\Projet c#\PokerBot\PokerBot\bin\Debug\netcoreapp3.1\PokerBot.runtimeconfig.json
+D:\Projet c#\PokerBot\PokerBot\bin\Debug\netcoreapp3.1\PokerBot.runtimeconfig.dev.json
+D:\Projet c#\PokerBot\PokerBot\bin\Debug\netcoreapp3.1\PokerBot.dll
+D:\Projet c#\PokerBot\PokerBot\bin\Debug\netcoreapp3.1\PokerBot.pdb
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.csprojAssemblyReference.cache
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.AssemblyInfoInputs.cache
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.AssemblyInfo.cs
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.csproj.CoreCompileInputs.cache
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.dll
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.pdb
+D:\Projet c#\PokerBot\PokerBot\obj\Debug\netcoreapp3.1\PokerBot.genruntimeconfig.cache
